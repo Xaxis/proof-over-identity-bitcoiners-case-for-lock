@@ -1,5 +1,5 @@
 ---
-title: "Proof Over Identity: A Bitcoiner’s Case for LOCK and Private Coordination That Outlives Platforms"
+title: "Proof Over Identity: A case for LOCK Protocol"
 description: "Speaking to the why and the future of a proof-first messenger built on Bram Kanstein’s LOCK protocol, what it changes for Bitcoiners, where it is tough, and why it might matter if we build it with care."
 pubDate: 2025-10-06
 tags: ["Bitcoin", "privacy", "self-sovereignty", "LOCK", "protocols", "messaging"]
